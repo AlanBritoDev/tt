@@ -124,16 +124,17 @@ footer {
   padding-bottom: 1rem;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .video-2 {
   height: 200px;
   width: 360px;
-  border-bottom: 1px solid white;
   margin-bottom: 1rem;
   padding-bottom: 1rem;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 h1.titulo-video {
