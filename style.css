@@ -117,7 +117,6 @@ footer {
 }*/
 
 .video-1 {
-  vw:100%;
   width: 100%;
   margin-bottom: 3rem;
   padding-bottom: 1rem;
@@ -127,7 +126,6 @@ footer {
 }
 
 .video-2 {
-  vw: 100%;
   width: 100%;
   border-bottom: 1px solid white;
   margin-bottom: 3rem;
