@@ -122,8 +122,8 @@ footer {
   margin-bottom: 3rem;
   padding-bottom: 1rem;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 .video-2 {
@@ -133,8 +133,8 @@ footer {
   margin-bottom: 3rem;
   padding-bottom: 1rem;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 h1.titulo-video {
