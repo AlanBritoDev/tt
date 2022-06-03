@@ -121,8 +121,9 @@ footer {
   width: 360px;
   border-bottom: 1px solid white;
   margin-bottom: 1rem;
-  padding-rigth; 1rem;
   padding-bottom: 1rem;
+  display: flex;
+  justify-content: center;
 }
 
 .video-2 {
@@ -130,13 +131,15 @@ footer {
   width: 400px;
   border-bottom: 1px solid white;
   margin-bottom: 1rem;
-  padding-rigth; 1rem;
   padding-bottom: 1rem;
+  display: flex;
+  justify-content: center;
 }
 
 h1.titulo-video {
   font-size: .9rem;
 }
+
 
 /* Codigo para alinhar itens um ao lado do outro */
 /* #main {
