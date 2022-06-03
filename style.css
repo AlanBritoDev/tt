@@ -107,8 +107,8 @@ footer {
 }
 
 #vd {
-  height: 260px;
-  width: 400px;
+  height: 200px;
+  width: 360px;
   border-bottom: 1px solid white;
   margin-bottom: 1rem;
   padding-bottom: 1rem;
@@ -117,12 +117,12 @@ footer {
 }
 
 .video-1 {
-  height: 260px;
-  width: 400px;
+  height: 200px;
+  width: 360px;
   border-bottom: 1px solid white;
   margin-bottom: 1rem;
   margin-left: 1rem;
-  margin-rigth; 2.5rem;
+  margin-rigth; 1rem;
   padding-bottom: 1rem;
 }
 
@@ -132,7 +132,7 @@ footer {
   border-bottom: 1px solid white;
   margin-bottom: 1rem;
   margin-left: 1rem;
-  margin-rigth; 2.5rem;
+  margin-rigth; 1rem;
   padding-bottom: 1rem;
 }
 
