@@ -116,23 +116,16 @@ footer {
   margin-left: 1rem;
 }*/
 
-.video-1 {
-  /* width: 100%; */
+video-1,
+.video-2 {
   margin-bottom: 3rem;
   padding-bottom: 1rem;
   display: flex;
-  /* margin-left: 1rem; */
-  /* margin-right: 1rem; */
+  justify-content: center;
 }
 
-.video-2 {
-  /* width: 100%; */
+.video-1 {
   border-bottom: 1px solid white;
-  margin-bottom: 3rem;
-  padding-bottom: 1rem;
-  display: flex;
-  /* margin-left: 1rem; */
-  /* margin-right: 1rem; */
 }
 
 h1.titulo-video {
