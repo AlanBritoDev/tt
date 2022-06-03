@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+:root {
+    --hue: 240;
+    --base-color: hsl (var(--hue) 65% 88%);
+    --text-color: hsl (var(--hue) 57% 53%);
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 6rem;
+    border-bottom: 1px solid white;
+    margin-bottom: 2rem;
+}
+.menu {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    color: aliceblue;
+}
+
+/* .foto {
+  display: flex;
+  justify-content: center;
+} */
+
+a {
+    color:aliceblue;
+}
+
+p{
+    margin-bottom: 3rem;
+    font-family:'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+
+h1 {
+    font-family: 'Sarala';
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin: 2rem;
+}
+
+body {
+    font-size: 100%;
+    height: 100%;
+    width: 90%;
+    background: linear-gradient(68.15deg, #2F2325 16.52%, #8E5D52 85.61%);
+    color: hsl(30, 9%, 86%);
+    text-align: center;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+.logo {
+    height: 5rem;
+}
+
+#dupla {
+    display: flex;
+    margin-left: 1rem;
+    height: 18rem;
+    border-radius: 0.50rem;
+    box-shadow: .4rem .45rem .4rem rgba(0, 0, 0, 0.25);
+}
+
+#button {
+    background-color: hsl(30, 9%, 86%);
+    width: 12rem;
+    height: 6rem;
+    border: none;
+    box-shadow: .4rem .45rem .4rem rgba(0, 0, 0, 0.25);
+    border-radius: 0.8rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    color: #2F2325;
+    transition: .4sec;
+    padding: 1rem;
+    margin-top: 5rem;
+}
+
+#button:hover {
+    background: rgba(236, 234, 234, 0.637);
+}
+
+footer {
+    height: 5rem;
+    margin-top: 4rem;
+    border-top: 1px solid white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#vd {
+  height: 260px;
+  width: 400px;
+  border-bottom: 1px solid white;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+}
+
+.video-1 {
+  border-bottom: 1px solid white;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+}
+
+.video-2 {
+  border-bottom: 1px solid white;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+}
+
+h1.titulo-video {
+  font-size: .9rem;
+}
+
+/* Codigo para alinhar itens um ao lado do outro */
+/* #main {
+  display: flex;
+  justify-content: space-around;
+} */
