@@ -106,7 +106,7 @@ footer {
     justify-content: space-evenly;
 }
 
-#vd {
+/* #vd {
   height: 200px;
   width: 360px;
   border-bottom: 1px solid white;
@@ -114,12 +114,11 @@ footer {
   padding-bottom: 1rem;
   margin-right: 1rem;
   margin-left: 1rem;
-}
+}*/
 
 .video-1 {
   height: 200px;
   width: 360px;
-  border-bottom: 1px solid white;
   margin-bottom: 1rem;
   padding-bottom: 1rem;
   display: flex;
@@ -130,6 +129,7 @@ footer {
 .video-2 {
   height: 200px;
   width: 360px;
+  border-bottom: 1px solid white;
   margin-bottom: 1rem;
   padding-bottom: 1rem;
   display: flex;
